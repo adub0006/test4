@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 {"chunk_definitions":[{"row":30,"row_count":1,"visible":true,"expansion_state":0,"options":{"engine":"r","label":"unnamed-chunk-4","dev":"png"},"document_id":"A12F5772","chunk_id":"cmrrsqzfz40p7","chunk_label":"unnamed-chunk-3"}],"doc_write_time":1716538491}
+=======
+{"chunk_definitions":[{"row":29,"row_count":1,"visible":true,"expansion_state":0,"options":{"engine":"r","label":"unnamed-chunk-1","dev":"png"},"document_id":"A12F5772","chunk_id":"cf6t7v3485hhl","chunk_label":"unnamed-chunk-3"}],"doc_write_time":1716538093}
+>>>>>>> testbranch
